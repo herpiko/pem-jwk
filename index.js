@@ -1,4 +1,5 @@
 var asn = require('asn1.js')
+var Buffer = require('buffer/').Buffer
 var factor = require('./factor')
 var one = new asn.bignum(1)
 

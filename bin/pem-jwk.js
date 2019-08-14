@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+var Buffer = require('buffer/').Buffer
 var pj = require('../index')
 var filename = process.argv[2]
 
