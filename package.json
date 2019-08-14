@@ -1,5 +1,5 @@
 {
-  "name": "pem-jwk",
+  "name": "pem-jwk-browser",
   "version": "2.0.0",
   "description": "convert between PEM and JWK formats",
   "main": "index.js",
